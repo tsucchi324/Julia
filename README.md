@@ -64,3 +64,5 @@ julia> using WebIO, IJulia
 julia> WebIO.install_jupyter_labextension(force_conda_jupyter=true)
 ```
   よくわからん。。
+
+  追記
